@@ -2,9 +2,7 @@
   <img src= "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width= "200" />
   <h1 align= "center">Hi, I'm AbOsj</h1>
   </div>
----
-### About Me:
-Systems Engineering student
+
 
 <div align= "left">
    <h3> 🖥️ Languages and Tools: </h3>
@@ -22,4 +20,4 @@ Systems Engineering student
    <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title= "Python" alt= "Python"
       widt= "40" height= "40"/>&nbsp;
   </div>
-  ---
+
