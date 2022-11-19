@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 ### About Me :
 -  I’m currently learning **C, C++, Java, Python**
 -  How to reach me: abigailrochaosjgmail.com 
----
+
+<div align= "left">
