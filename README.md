@@ -4,12 +4,7 @@
   </div>
 <!--
 
----
 
-### About Me :
-
--  I’m currently learning **C, C++, Java, Python**
--  How to reach me: abigailrochaosjgmail.com 
 
 <div align= "left">
    <h3> 🖥️ Languages and Tools: </h3>
