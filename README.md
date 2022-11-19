@@ -15,9 +15,7 @@
       widt= "40" height= "40"/>&nbsp;
     <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title= "Python" alt= "Python"
       widt= "40" height= "40"/>&nbsp;
-   <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title= "Python" alt= "Python"
-      widt= "40" height= "40"/>&nbsp;
-   <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title= "Python" alt= "Python"
+   <img src= "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title= "Arduino" alt= "Arduino"
       widt= "40" height= "40"/>&nbsp;
   </div>
 
