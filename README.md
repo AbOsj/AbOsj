@@ -3,12 +3,9 @@
   <h1 align= "center">Hi, I'm AbOsj</h1>
   </div>
 <!--
-**AbOsj/AbOsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 ---
 ### About Me :
 -  I’m currently learning **C, C++, Java, Python**
 -  How to reach me: abigailrochaosjgmail.com 
 
-<div align= "left">
