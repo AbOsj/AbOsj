@@ -11,3 +11,10 @@
 -  I’m currently learning **C, C++, Java, Python**
 -  How to reach me: abigailrochaosjgmail.com 
 
+<div align= "left">
+   <h3> 🖥️ Languages and Tools: </h3>
+  <div>
+      <img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title= "C" alt= "C"
+      widt= "40" height= "40"/>&nbsp;
+
+
